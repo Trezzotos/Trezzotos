@@ -11,10 +11,8 @@ I care about **code quality and automation**: I use **CI/CD pipelines** to build
 ### What I bring
 
 - **Strong programming fundamentals**: C, C++, C#, Java and Python, with solid Object-Oriented Programming and data structures/algorithms.
-- **Computer Graphics & Game Development background**: rendering concepts, real-time applications, game loop and game architecture, linear algebra and math for graphics.
+- **Computer Graphics & Game Development background**: rendering concepts, game loop and game architecture, linear algebra and math for graphics.
 - **Automated testing & CI/CD**: build and test pipelines (e.g. GitHub Actions) to keep projects stable and reproducible.
-- **Backend & networking**: REST/real-time services, WebSockets, authoritative server design, network security (mTLS, Zero Trust).
-- **Data & AI-oriented projects**: streaming pipelines with Kafka/Spark, on-device ML inference (ONNX).
 - **Version control & collaboration**: daily use of Git and Linux environments.
 
 ---
