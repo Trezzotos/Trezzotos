@@ -55,7 +55,7 @@ I care about **code quality and automation**: I use **CI/CD pipelines** to build
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| [**PianoLearning**](https://github.com/yamo7/Piano-Learning) 🎮 | Open-source Mixed Reality (MR) application developed to help people learn how to play the piano. It combines VR and MR to simulate a piano in a virtual space or anchor a learning system to a real physical keyboard, designed especially for beginners without prior music theory knowledge.. | `JavaScript`, `Node.js`, `Express.js`, `Socket.IO`, `SQLite`, `HTML`, `CSS` |
+| [**PianoLearning**](https://github.com/yamo7/Piano-Learning) 🎮 | Open-source Mixed Reality (MR) application developed to help people learn how to play the piano. It combines VR and MR to simulate a piano in a virtual space or anchor a learning system to a real physical keyboard, designed especially for beginners without prior music theory knowledge.. | `C#`, `Unity`, `Meta XR Core SDK / OpenXR`, `Blender`|
 
 ---
 
