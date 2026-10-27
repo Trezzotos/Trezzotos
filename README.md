@@ -42,9 +42,7 @@ I care about **code quality and automation**: I use **CI/CD pipelines** to build
   <img src="https://img.shields.io/badge/OOP_%26_Design_Patterns-444444?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Unit_%26_Integration_Testing-2E7D32?style=for-the-badge" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
